@@ -1,0 +1,106 @@
+/* * {
+    border: 0.5px solid red;
+} */
+
+.sony {
+    height: 15px;
+    margin-left: auto;
+    padding-right: 5px;
+}
+
+
+.my-hamburger i {
+    font-size: 26px;
+    padding-top: 10px;
+}
+
+.my-z_index {
+    z-index: 100;
+}
+
+
+.my-glass i {
+    font-size: 18px;
+    padding-top: 10px;
+    margin: 0 30px;
+}
+
+.container .jumbo-img {
+    height: 40px;
+    ;
+}
+
+.jumbo {
+    margin-top: 80px !important;
+}
+
+.bg-img-jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center top;
+    background-size: cover;
+}
+
+.my-padding {
+    padding-top: 300px;
+}
+
+.bg-img-takes {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover; 
+}
+
+.my-size {
+    width: 60%;
+}
+.my-trademark {
+    font-size: 10px;
+}
+
+.my-news {
+    background-color: #242424;
+}
+
+.my-registry {
+    font-size: 14px;
+}
+
+.playstation-plus {
+    background-color: #BDBABA;
+}
+
+.playstation-plus .soulstorm{
+    background-color: #BDBABA;
+}
+
+.my-btn-secondary {
+    background-color: #D8D9DB;
+}
+
+.now-section {
+    background-color: #1B223B;
+}
+
+.my-btn-white {
+    background-color: white;
+}
+
+.avengers {
+    background-color: #1B223B;
+}
+
+.footer-section {
+    background-color: #004595;
+}
+
+.my-listnone {
+    list-style: none;
+}
+
+.my-sie {
+    width: 20%;
+}
+
+.my-gray {
+    color: gray;
+}
